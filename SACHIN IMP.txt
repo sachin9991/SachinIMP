@@ -1,0 +1,106 @@
+	
+	http://pmtool.aressindia.net
+	
+	https://mail.aress.net
+	
+	https://mail.aressindia.net/#1
+
+http://192.168.210.1:8090/
+	
+	https://www.diffchecker.com/diff
+		
+	http://kbtcoe.org/computer-department/activities/
+	http://kbtcoe.org/computer-department/placement-data/
+	http://kbtcoe.org/results/ 
+	
+Raghupati Nivas Opp to,Nimani Bus Stop Panchwati,,Nashik,MH,IN,422003
+099901511532	
+ICIC0000999		
+R/M				 
+====*******SQL Quuery to find word in complete(selected) database****=====
+SELECT OBJECT_NAME(object_id), OBJECT_DEFINITION(object_id), modify_date
+FROM sys.procedures
+WHERE OBJECT_DEFINITION(object_id) LIKE '%te_name%'
+order by OBJECT_NAME(object_id)
+==========================================================================
+		
+	Employee ADD/EDIT Page is added to ESOptimizer is completed, And renaming template analysis is completed.
+	
+	\\192.168.5.168\Share\ESCt Transfer\Sachin
+	
+	http://mkisan.gov.in/rpt_BeneficiaryStatuy_Pub.aspx
+		
+	10 july-10 Aug=1
+	10 Aug-10 Sept=2
+	10 Sept-10 Oct=3
+	10 oct-15 Nov=3.5 Total done & exactly ready for further processing
+	Total investing=50 Expected=80 Actual= 65??
+	
+	15 Nov-15 Dec=1
+	15 Dec-15 Jan=2
+	15 Jan-15 Feb=3
+	15 Feb-1 March=3.5
+	Total investing=30 Expected=30 Actual=?? 
+	
+	Boar,pipe,cables,kdwl,etc adjusting: 30,1 Dec.
+	Rota+beds: 7,8 Dec. 
+	PomeTan : Upto 14 Dec. 
+	Cutting: 14,15 Dec. 
+	Geru: upto 20 Dec. 
+	Dripping: 21,22 Dec. 
+	Ferti: 28,29 Dec. 
+	Spray Fungicides,Pesticide:  
+	HB TAN: 
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+	
+	
+	
+	
+
+	
+Dear boss, I know you are a very rich person. 
+This is not because of the status of your bank account, or the quantity of your properties.
+ You are rich because everyone around you owes a lot to your kindness and guidance.
+ Happy birthday. Continue being an awesome person.
+
+  बोलनं दमदार
+वागणं जबाबदार
+Cool Personality चे
+सतत केस वर करून मुलींना #Impress करणारे ...
+दिसायला एखाद्या हिरो ला ही लाजवणारे
+कॅडबरी बॉय
+आपले लाडके गोजीरे
+डझनभर पोरिंच्या मनावर राज्य करणारे
+मुलींमधे #dashing-boy
+या नावाने प्रसिद्द असलेले,
+6 मुलींनी प्रपोज केलेले, 2 मुलींना,
+नकार दिलेले,2 मुलींना वेटिंग वर ठेवलेले,
+आणि #त्यातील एकीला वहिनी बनवणारे.....
+तरुणांचे सुपरस्टार,
+⚔अँक्शन हिरो आपला भाऊ
+#तुला वाढदिवसाच्या शिव शुभेच्छा  
+===============================================
+11 Nov=1
+
+16 Nov=2 17 Nov=2 18 Nov=1
+
+22 Nov=1 23 Nov=2 24 Nov=2 25 Nov=1
+
+29 Nov=1 30 Nov=2 1 Dec=2 2 Dec=1
+
+6 Dec=1 7 Dec=2 8 Dec=2 9 Dec=1
+-----------------------------------
+Total: 24 Cancel : 36 Ok 1800
+============================================== 
